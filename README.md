@@ -1,5 +1,37 @@
 ### Eu sou Divino Clossi seja bem ao meu perfil 👋
 
+<p align="center">
+
+ <h2 align="center">GitHub Readme Clossi</h2>
+ <p align="center">Analista de Dados / Data Analytics!</p>
+</p>
+  <p align="center">
+    <a href="https://github.com/Clossi/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/Clossi/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/Clossi/github-readme-stats/graphs/contributors">
+    </a>
+    <a href="https://codecov.io/gh/Clossi/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/Clossi/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/Clossi/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Clossi/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/Clossi/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Clossi/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/Clossi/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/Clossi/github-readme-stats/badge" />
+    </a>
+    <br />
+    <br />
+    <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
+      <img src="./powered-by-vercel.svg"/>
+    </a>
+  </p>
+
+  <p align="center">
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Clossi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Clossi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
