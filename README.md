@@ -3,7 +3,7 @@
 <p align="center">
 
  <h2 align="center">GitHub Readme Clossi</h2>
- <p align="center">Analista de Dados / Data Analytics!</p>
+ <p align="center">Analista de Dados /Salesforce Administrador / Data Analytics!</p>
 </p>
   <p align="center">
     <a href="https://github.com/Clossi/github-readme-stats/actions">
